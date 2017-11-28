@@ -11,7 +11,7 @@ layout: feed
 	<id>http://fjlicht.github.io/blog</id>
 	<author>
 		<name>Franz Lichtner</name>
-		<email>franz.lichtner@gmail.com</email>
+		<email>fjlicht@colostate.edu</email>
 	</author>
 
 	{% for post in site.posts %}
