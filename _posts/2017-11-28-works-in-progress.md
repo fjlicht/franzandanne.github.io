@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Work in progress
+title: "Work in progress"
 date: 2017-11-28
 ---
 
