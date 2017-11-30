@@ -6,4 +6,4 @@ date: 2017-11-28
 
 Some potatoes from the 2017 cultivar pathology field trial harvest
 
-![] (/IMG_2208.JPG "Purple Maj. Infection")
+![](/_posts/IMG_2208.JPG "Purple Maj. Infection")
