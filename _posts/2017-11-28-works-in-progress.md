@@ -12,4 +12,4 @@ White
 ![IMG_2211.JPG](/_posts/IMG_2211.JPG "Potato")
 
 
-<IMG /_posts/IMG_2211.JPG >
+<IMG HEIGHT="##" WIDTH="##" SRC=/_posts/IMG_2211.JPG >
