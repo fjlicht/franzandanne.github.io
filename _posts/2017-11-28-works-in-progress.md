@@ -11,4 +11,4 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 ![IMG_2211.JPG](/_posts/IMG_2211.JPG "Potato")
 
 
-<IMG HEIGHT="300" WIDTH="300" src=/_posts/IMG_2211.JPG>
+<IMG HEIGHT="300" WIDTH="250" src=/_posts/IMG_2214.JPG>
