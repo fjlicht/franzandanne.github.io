@@ -9,4 +9,4 @@ Some potatoes from the 2017 cultivar pathology field trial harvest
 <img src="/_posts/IMG_2208.JPG" width="300" height="250">
 
 
-<img src="/_posts/IMG_2209.JPG" width="300" height="250">
+<img src="/_posts/IMG_2211.JPG" width="300" height="250">
