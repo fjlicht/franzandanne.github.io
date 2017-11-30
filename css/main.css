@@ -19,6 +19,11 @@ footer { border-top: 1px solid #d5d5d5; font-size: .8em; }
 /* Blog */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
+img { transition: -webkit-transform 0.25s ease; }
+img { transition: transform 0.25s ease; }
+
+img:active { -webkit-transform: scale(2); }
+img:active { transform: scale(2); }
 
 /* CV */
 .cv { margin: 0px 0px 60px; }

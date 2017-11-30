@@ -2,4 +2,4 @@ name: Franz Lichtner, Plant Pathologist
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-tactile
