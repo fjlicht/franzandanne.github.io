@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Work in progress"
+title: "2017 Field Season"
 date: 2017-11-28
 ---
 
@@ -11,7 +11,7 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 ![IMG_2211.JPG](/_posts/IMG_2211.JPG "Potato")
 
 
-<IMG HEIGHT="250" WIDTH="300" src=/_posts/IMG_2214.JPG>
+<IMG HEIGHT="250" WIDTH="300" src="/_posts/IMG_2214.JPG">
   
   <center>
-<a href="/_posts/IMG_2214.JPG"><img src="/_posts/IMG_2214.JPG"width = "400"/></a</><p><center>
+<a href="/_posts/IMG_2214.JPG"><img src="/_posts/IMG_2214.JPG" width = "400"/></a</><p><center>
