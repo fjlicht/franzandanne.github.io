@@ -9,6 +9,6 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 
 ![Purple Potato]({{ "fjlicht.github.io/assets/IMG_2209.jpg" | absolute_url }})
 
-![Purple Potato]({{ "fjlicht.github.io/assets/IMG_2209.jpg" | absolute_url }})
+![Purple Potato]({{ "fjlicht.github.io/assets/IMG_2208.JPG" | absolute_url }})
 
 ![Purple Potato]({{ "fjlicht.github.io/assets/IMG_2209.jpg" | absolute_url }})
