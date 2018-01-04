@@ -7,9 +7,5 @@ date: 2017-11-28
 Some potatoes from the 2017 cultivar pathology field trial harvest I completed this October. I tested 6 varieties of potato against two different fungal pathogens, *Helminthosporium solani* and *Colletotrichum coccodes* which are both of economical interest to potato growers in the San Luis Valley.
 
 
-
-
-<IMG HEIGHT="250" WIDTH="300" src=_posts/IMG_2214.JPG>
-  
-  <center>
-<a href=/_posts/IMG_2214.JPG><img width = "400" src=_posts/IMG_2214.JPG /></a</><p><center>
+<IMG WIDTH="300" HEIGHT="250" src=/_posts/IMG_2214.JPG align=center>
+<IMG width = "400" src=/_posts/IMG_2214.JPG align=center>
