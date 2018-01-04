@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Franz Lichtner, Plant Pathologist, Research Site"
+title: "Research Site Development"
 date: 2015-09-15
 ---
 
-Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well. Finally got around to putting this website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I use Markdown to author my posts. Hopefully I can keep it up to date with all of my research and endeavours!
