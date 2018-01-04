@@ -8,6 +8,8 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 
 
 ![Purple Potato](/_posts/IMG_2209.jpg)
+
+
 ![alt text][Purple Potato]
 
 [Purple Potato]: /_posts/IMG_2209.jpg
