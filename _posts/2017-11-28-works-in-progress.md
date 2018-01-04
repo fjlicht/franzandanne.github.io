@@ -8,7 +8,7 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 
 
 ![Purple Potato]({{ "fjlicht.github.io/assets/IMG_2209.jpg" | absolute_url }})
-
+Purple purple varieties after field scale soil innoculations!
 ![Purple Potatoes]({{ "fjlicht.github.io/assets/IMG_2208.JPG" | absolute_url }})
 
-![White Potato]({{ "fjlicht.github.io/assets/IMG_2214.JPG" =350x350 | absolute_url }})
+![White Potato]({{ "fjlicht.github.io/assets/IMG_2214.JPG" =500x500 | absolute_url }})
