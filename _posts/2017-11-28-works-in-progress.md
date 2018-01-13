@@ -12,4 +12,6 @@ Some potatoes from the 2017 cultivar pathology field trial harvest I completed t
 Purple variety after field-scale soil-borne pathogen innoculations!
 
 
-![White Potato]({{ "fjlicht.github.io/assets/IMG_2214.JPG" =400x200 | absolute_url }})
+![Hemp Field]({{ "fjlicht.github.io/assets/hemp_inspection.JPG" =400x200 | absolute_url }})
+
+Early season field trip around the valley with growers and CSU professors.
