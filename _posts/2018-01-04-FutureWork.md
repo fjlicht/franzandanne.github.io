@@ -7,7 +7,7 @@ The direction of my research is fluid, with the next steps including data analys
 
 ![Culture]({{ "fjlicht.github.io/assets/p-culture.JPG" =300x300 | absolute_url }})
 
-Pure culture of new species being described in the genus *Penicillium*!
+Pure culture of new species being described in the genus *Penicillium*.
 
 
 ![other interesting image]({{ "fjlicht.github.io/assets/interestingimage.jpg" =400x200 | absolute_url }})
