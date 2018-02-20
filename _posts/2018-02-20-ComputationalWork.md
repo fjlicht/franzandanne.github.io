@@ -3,7 +3,7 @@ layout: post
 title: "Data Analysis"
 date: 2018-02-20
 ---
-# A picture is worth a thousand words...
+# R Graphics
 
 ## Potato Pathology
 
@@ -11,7 +11,8 @@ date: 2018-02-20
 
 ![Figure2]({{ "fjlicht.github.io/assets/Post Harvest Disease Rating.tiff" =300x300 | absolute_url }})
 
-## Comparative Genomics- SNPs of interest in __Phytophthora ramorum__ genomes
+## Comparative Genomics- 
+SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP calling
 
 
 ![Figure]({{ "fjlicht.github.io/assets/High Variants by Year and Isolate.pdf" =300x300 | absolute_url }})
