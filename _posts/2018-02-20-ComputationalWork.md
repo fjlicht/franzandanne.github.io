@@ -20,7 +20,7 @@ SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP 
 
 ## Amplicon Sequence metagenomics
 
-![Figure]({{ "fjlicht.github.io/assets/korona_plot_PA.pdf" =300x300 | absolute_url }})
+![PAKorona]({{ "fjlicht.github.io/assets/PA_top100_korona.jpg" =300x300 | absolute_url }})
 
 ![Figure]({{ "fjlicht.github.io/assets/korona_plot_NH.pdf" =300x300 | absolute_url }})
 
