@@ -20,7 +20,9 @@ SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP 
 
 ## Amplicon Sequence metagenomics
 
-![Figure]({{ "fjlicht.github.io/assets/interesting image.pdf" =300x300 | absolute_url }})
+![Figure]({{ "fjlicht.github.io/assets/korona_plot_PA.pdf" =300x300 | absolute_url }})
+
+![Figure]({{ "fjlicht.github.io/assets/korona_plot_NH.pdf" =300x300 | absolute_url }})
 
 
 ## qPCR on ITS and 16S
