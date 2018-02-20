@@ -22,9 +22,9 @@ SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP 
 
 ![PAKorona]({{ "fjlicht.github.io/assets/PA_top100_korona.jpg" =300x300 | absolute_url }})
 
-![Figure]({{ "fjlicht.github.io/assets/korona_plot_NH.pdf" =300x300 | absolute_url }})
+![Figure]({{ "fjlicht.github.io/assets/diversity.pdf" =300x300 | absolute_url }})
 
 
 ## qPCR on ITS and 16S
 
-![other interesting image]({{ "fjlicht.github.io/assets/interestingimage.jpg" =400x200 | absolute_url }})
+![FB Changes]({{ "fjlicht.github.io/assets/Change of FB at location per year with NAs.pdf" =300x300 | absolute_url }})
