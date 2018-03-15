@@ -13,8 +13,8 @@ date: 2018-02-20
 
 ## Comparative Genomics- 
 
-### SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP calling
-### code for genome analysis located : https://github.com/fjlicht/P.ramorum
+### SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP calling:
+[code for genome data](https://github.com/fjlicht/P.ramorum)
 
 ![Figure]({{ "fjlicht.github.io/assets/High Variants by Year and Isolate.pdf" =300x300 | absolute_url }})
 
