@@ -23,7 +23,7 @@ date: 2018-02-20
 
 ![PAKorona]({{ "fjlicht.github.io/assets/PA_top100_korona.jpg" =300x300 | absolute_url }})
 
-![Figure]({{ "fjlicht.github.io/assets/diversity.pdf" =300x300 | absolute_url }})
+![Figure]({{ "fjlicht.github.io/assets/diversity.tiff" =300x300 | absolute_url }})
 
 
 ## qPCR on ITS and 16S
