@@ -3,15 +3,15 @@ layout: post
 title: "Data Analysis"
 date: 2018-02-20
 ---
-# R Graphics
+# R Coding Analyses 
 
-## Potato Pathology
+## Potato Pathology Experimental analysis
 
 ![Figure]({{ "fjlicht.github.io/assets/Nitrogen Pathology effect on Disease.tiff" =300x300 | absolute_url }})
 
 ![Figure2]({{ "fjlicht.github.io/assets/Post Harvest Disease Rating.tiff" =300x300 | absolute_url }})
 
-## Comparative Genomics- 
+## Comparative Genomics:
 
 ### SNPs of interest in *Phytophthora ramorum* genomes, from de novo asembly to SNP calling:
 [code for genome data](https://github.com/fjlicht/P.ramorum)
