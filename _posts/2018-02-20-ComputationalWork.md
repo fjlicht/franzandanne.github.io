@@ -22,10 +22,12 @@ date: 2018-02-20
 ## Amplicon Sequence metagenomics
 
 ![PAKorona]({{ "fjlicht.github.io/assets/PA_top100_korona.jpg" =300x300 | absolute_url }})
+#### Korona plot of top 16S taxa
 
 ![Figure]({{ "fjlicht.github.io/assets/diversity.tiff" =300x300 | absolute_url }})
-
+#### Venn Diagram of bacterial diversity over time
 
 ## qPCR on ITS and 16S
 
 ![FB Changes]({{ "fjlicht.github.io/assets/Change of FB at location per year with NAs.pdf" =300x300 | absolute_url }})
+#### Fungal:Bacterial copy number change over time
