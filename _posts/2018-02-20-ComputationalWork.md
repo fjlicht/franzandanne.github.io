@@ -3,7 +3,7 @@ layout: post
 title: "Data Analysis"
 date: 2018-02-20
 ---
-# R Coding Analyses 
+# R based Analyses 
 
 ## Potato Pathology Experimental analysis
 
@@ -31,3 +31,6 @@ date: 2018-02-20
 
 ![FB Changes]({{ "fjlicht.github.io/assets/Change of FB at location per year with NAs.pdf" =300x300 | absolute_url }})
 #### Fungal:Bacterial copy number change over time
+
+![PCA Factors]({{ "fjlicht.github.io/assets/PCA_FactorMap_manuscript.tiff" =300x300 | absolute_url }})
+#### Princple component factor analysis
